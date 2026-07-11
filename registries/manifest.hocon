@@ -91,5 +91,6 @@
     #   For example, you can run:
     #     python -m neuro_san_studio run --server-http-port 8081 --nsflow-port 4174
     "agent_network_architect.hocon": false,
+	"petrol_location_finder.hocon": true,
 
 }
