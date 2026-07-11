@@ -64,3 +64,5 @@ from `GlobalSearch`'s config, the same way `PdfReaderTool` is wired into the PDF
 3. Or open the nsflow UI (`http://localhost:4173/`) to visually see the agent network graph
    and confirm the call chain reached `GlobalSearch`.
 4. Confirm the final answer includes the "this result comes from a general search" disclaimer.
+
+Adding video link here, its on sharepoint > https://cognizantonline-my.sharepoint.com/:f:/g/personal/871757_cognizant_com/IgCpzGQ-KqKSSpve44A9ebK1AUGUwFgpdwlBhfs09GjA_qk?e=ZSBVYk
